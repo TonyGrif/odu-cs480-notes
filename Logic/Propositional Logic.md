@@ -6,6 +6,8 @@ Lectures:
   - "16"
 ---
 A branch of [[Logic Overview | logic]] that studies ways of combining/altering sentences to form more complicated sentences. Complex sentences can be expressed in the form of truth tables, which specify the possible values for each sequence.
+
+Propositional logic assumes the world contains facts and presents a logical system for reasoning them.
 # Symbols
 | Symbol         | Meaning                                  |
 | :------------- | ---------------------------------------- |
